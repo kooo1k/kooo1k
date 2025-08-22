@@ -1,5 +1,7 @@
 # Hi there, I'm Je👋
 
+I am ...
+
 - 🎓 CS fresh graduate from Monash University  
 - 👍 Experience in software engineering and AI/ML
 - ⚡Interested in large-scale backend systems, low-latency engineering, and quantitative problem-solving  

@@ -1,3 +1,6 @@
-# Hi, I'm Je✌️
+<div align="center">
 
-Passionate about system architecture and quant-tech
+# Hi, I'm Je✌️  
+**Passionate about system architecture and quant-tech**
+
+</div>

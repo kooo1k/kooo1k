@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Je✌️  
-**Passionate about system architecture and quant-tech**
+**Focused on system architecture and quant-tech**
 
 <br>
 
